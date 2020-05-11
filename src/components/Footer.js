@@ -12,7 +12,7 @@ const Footer = (props) => {
       />
       <SocialMedia
         image="./static/instagram.png"
-        text="instagram"
+        text="designgostcom"
         link="https://www.instagram.com/designgostcom/"
       />
       <SocialMedia
