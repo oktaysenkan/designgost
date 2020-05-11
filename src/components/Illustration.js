@@ -17,7 +17,7 @@ const leftUpper = (i) => (r) =>
 
 const rightDown = (i) => (r) =>
   `translate3d(${ANIMATION_SPEED * Math.sin(r + (i * 2 * Math.PI) / 1.6)}px, ${
-    ANIMATION_SPEED * Math.sin(r + (i * 2 * Math.PI) / 1.6)
+    ANIMATION_SPEED * Math.sin(r - (i * 2 * Math.PI) / 1.6)
   }px, 0)`;
 
 const animations = {
