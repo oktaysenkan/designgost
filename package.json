@@ -1,10 +1,14 @@
 {
-  "name": "react",
+  "name": "designgost-website",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Website of DesignGost",
+  "author": {
+    "name": "Oktay Şenkan",
+    "email": "oktay.senkan@gmail.com"
+  },
   "keywords": [
     "react",
-    "starter"
+    "website"
   ],
   "main": "src/index.js",
   "dependencies": {

@@ -92,3 +92,4 @@ Thumbs.db
 
 .vscode
 build
+package-lock.json
