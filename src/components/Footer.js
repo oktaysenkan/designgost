@@ -7,7 +7,7 @@ const Footer = (props) => {
     <div className="footer">
       <SocialMedia
         image="./static/twitter.png"
-        text="designgostcom"
+        text="DesignGost"
         link="https://twitter.com/designgost"
       />
       <SocialMedia
