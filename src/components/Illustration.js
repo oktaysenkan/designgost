@@ -1,8 +1,6 @@
 import React from "react";
 import { useSpring, animated } from "react-spring";
 
-import "../styles.css";
-
 const ANIMATION_SPEED = 5;
 
 const upDown = (i) => (r) =>

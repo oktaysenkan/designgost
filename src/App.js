@@ -1,11 +1,10 @@
-import ReactDOM from "react-dom";
 import React from "react";
 
 import { Logo, Slogan, ComingSoon, Footer, Illustrations } from "./components";
 
 import "./styles.css";
 
-export default function App() {
+const App = () => {
   return (
     <div className="homepage">
       <Illustrations />
@@ -19,6 +18,6 @@ export default function App() {
       <Footer />
     </div>
   );
-}
+};
 
-ReactDOM.render(<App />, document.getElementById("root"));
+export default App;

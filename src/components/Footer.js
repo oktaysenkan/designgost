@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles.css";
+
 import SocialMedia from "./SocialMedia";
 
 const Footer = (props) => {

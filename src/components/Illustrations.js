@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles.css";
+
 import Illustration from "./Illustration";
 
 const Illustrations = (props) => {
